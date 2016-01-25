@@ -1,0 +1,14 @@
+.cuadro {
+	padding:5px 10px;
+	border:10px solid orange;
+	margin-right:980px;
+	margin-top: 10px;
+	margin-bottom: 50px;
+	width: 200px;
+}
+.cuadro2 {
+	padding:5px 10px;
+	border:10px solid orange;
+	margin: auto;
+	width: 200px;
+}
